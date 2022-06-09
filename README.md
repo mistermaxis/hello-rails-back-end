@@ -4,6 +4,8 @@
 
 > A simple Rails API backend.
 
+###### [Link to the frontend app repository](https://github.com/mistermaxis/hello-react-front-end/pull/1)
+
 ## Built With
 
 - Ruby
