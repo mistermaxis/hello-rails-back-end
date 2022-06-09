@@ -20,7 +20,8 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
-- Run `cd hello-rails-react-2-apps/hello-rails-back-end`
+- Run `git clone https://github.com/mistermaxis/hello-rails-back-end.git`
+- Run `cd hello-rails-back-end`
 - Run `bundle install`
 - Run `rails db:create && rails db:migrate && rails db:seed`
 
